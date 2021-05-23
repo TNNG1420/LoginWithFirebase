@@ -1,0 +1,2 @@
+rootProject.name = "LoginGg"
+include ':app'
